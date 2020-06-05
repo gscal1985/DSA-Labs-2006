@@ -98,7 +98,8 @@ public:
 
 
 		}
-		//Close the opened ".bin" file. ok!
+		//Close the opened ".bin" file. ok! gscalion
+
 		numBinFileContents.close();
 
 	
